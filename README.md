@@ -32,7 +32,8 @@ This is the block diagram for our project. It consists of
 
 ## **(3) Simulation **<br />
 
-https://www.youtube.com/watch?v=46dk5t8Rym0&ab_channel=MUHAMMADRIFAIERODZILA17KE0191
+[![IMAGE ALT TEXT HERE](https://github.com/AhmadSyafiq898/projectCAD/blob/main/image.PNG)
+)](https://youtu.be/TUihS3mmGj0)
 
 
 
